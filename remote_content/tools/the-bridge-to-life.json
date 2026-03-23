@@ -1,0 +1,48 @@
+{
+  "id": "the-bridge-to-life",
+  "title": "The Bridge to Life",
+  "category": "evangelism",
+  "description": "A visual explanation of how Jesus bridges the gap between humanity and God.",
+  "cards": [
+    {
+      "index": 0,
+      "heading": "God's Original Design",
+      "scripture": "Genesis 1:31",
+      "scriptureText": "God saw all that he had made, and it was very good.",
+      "body": "God created the world in harmony. He designed us to live in a perfect, loving relationship with Him, experiencing full peace and purpose.",
+      "question": "When you look at the world today, where do you see glimpses of that original 'good' design?"
+    },
+    {
+      "index": 1,
+      "heading": "The Chasm of Sin",
+      "scripture": "Isaiah 59:2",
+      "scriptureText": "But your iniquities have separated you from your God; your sins have hidden his face from you.",
+      "body": "When we chose to go our own way instead of God’s way, a great chasm was formed. This separation is the root of our restlessness and spiritual death.",
+      "question": "How have you tried to fill the 'gap' or 'emptiness' in your life on your own?"
+    },
+    {
+      "index": 2,
+      "heading": "Our Efforts Fall Short",
+      "scripture": "Ephesians 2:8-9",
+      "scriptureText": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.",
+      "body": "People often try to bridge the gap through good works, religion, or morality. But no matter how hard we try, we cannot reach God's perfect standard through human effort.",
+      "question": "Does it feel like a relief or a challenge to hear that 'good works' aren't enough to reach God?"
+    },
+    {
+      "index": 3,
+      "heading": "Jesus: The Only Bridge",
+      "scripture": "1 Peter 3:18",
+      "scriptureText": "For Christ also suffered once for sins, the righteous for the unrighteous, to bring you to God.",
+      "body": "Jesus is the only bridge across the chasm. By dying for our sins and rising again, He made a way for us to return to God. He took the penalty we deserved so we could have the life He earned.",
+      "question": "What is your reaction to the idea that Jesus did the work of 'bringing you to God' so you don't have to?"
+    },
+    {
+      "index": 4,
+      "heading": "Stepping Across in Faith",
+      "scripture": "John 5:24",
+      "scriptureText": "Whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to life.",
+      "body": "Knowing the bridge exists isn't the same as crossing it. We must place our trust in Jesus alone to carry us across. To believe is to move from death to life.",
+      "question": "Where would you say you are right now: on the far side, trying to build your own bridge, or ready to cross over?"
+    }
+  ]
+}

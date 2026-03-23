@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 2,
+  "tools": [
+    {
+      "id": "knowing-god-personally",
+      "title": "Knowing God Personally",
+      "category": "evangelism",
+      "description": "Four truths about a personal relationship with God."
+    },
+    {
+      "id": "the-quiet-hour",
+      "title": "The Quiet Hour",
+      "category": "disciplines",
+      "description": "A guide to establishing a daily time alone with God."
+    },
+    {
+      "id": "share-your-faith",
+      "title": "Share Your Faith",
+      "category": "discipleship",
+      "description": "Practical tools for sharing discipleship naturally in everyday life."
+    }
+  ]
+}

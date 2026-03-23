@@ -24,6 +24,18 @@
       "title": "Romans Road",
       "category": "evangelism",
       "description": "A pathway through the book of Romans that explains sin, salvation, and how to receive eternal life."
+    },
+    {
+      "id": "the-bridge-to-life",
+      "title": "The Bridge to Life",
+      "category": "evangelism",
+      "description": "A visual explanation of how Jesus bridges the gap between humanity and God."
+    },
+    {
+      "id": "the-abiding-life",
+      "title": "The Abiding Life",
+      "category": "discipleship",
+      "description": "Practical steps for staying connected to Christ and growing in spiritual maturity."
     }
   ]
 }

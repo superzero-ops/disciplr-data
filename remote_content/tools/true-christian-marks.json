@@ -1,0 +1,40 @@
+{
+  "id": "true-christian-marks",
+  "title": "The Marks of a True Christian",
+  "category": "spiritual-formation",
+  "description": "A lesson on the visible evidences of a genuine Christian life.",
+  "cards": [
+    {
+      "index": 0,
+      "heading": "A True Christian Has a Changed Life",
+      "scripture": "2 Corinthians 5:15",
+      "scriptureText": "And he died for all, that those who live should no longer live for themselves but for him who died for them and was raised again.",
+      "body": "A true Christian experiences transformation. This includes a new hope, new desires, a new way of living, a new purpose, a new relationship with God as His child, and a desire to be part of a church that teaches sound doctrine.",
+      "question": "What changes have you seen in your life since following Christ?"
+    },
+    {
+      "index": 1,
+      "heading": "A True Christian Has Assurance of Salvation",
+      "scripture": "1 John 5:13",
+      "scriptureText": "I write these things to you who believe in the name of the Son of God so that you may know that you have eternal life.",
+      "body": "One of the greatest marks of a true believer is the assurance of salvation. A true Christian knows and is confident in their salvation, based on the testimony of God’s Word.",
+      "question": "Are you confident in your salvation? Why or why not?"
+    },
+    {
+      "index": 2,
+      "heading": "A True Christian Has New Affections",
+      "scripture": "1 John 3:14",
+      "scriptureText": "We know that we have passed from death to life, because we love each other.",
+      "body": "A true Christian develops new desires and affections: love for Jesus Christ, love for fellow believers, love for God’s Word, love for holiness, love for God’s work, and love for worship and fellowship.",
+      "question": "Which of these new affections is most evident in your life today?"
+    },
+    {
+      "index": 3,
+      "heading": "Application and Instructions",
+      "scripture": "1 Corinthians 10:31",
+      "scriptureText": "So whether you eat or drink or whatever you do, do it all for the glory of God.",
+      "body": "True transformation should be visible in our daily lives. We should avoid vices such as drinking, smoking, and anything that does not please God. We must also turn away from lying, gossip, and speaking ill of others.",
+      "question": "What is one specific area in your life where you need to apply these instructions?"
+    }
+  ]
+}

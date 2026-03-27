@@ -1,5 +1,104 @@
 {
     "reminders": [
-        { "title": "Share the Good News", "body": "Who in your life needs to hear about God's love today?", "ref": "Romans 1:16" }
+        {
+            "title": "Share the Good News",
+            "body": "Who in your life needs to hear about God's love today?",
+            "ref": "Romans 1:16"
+        },
+        {
+            "title": "You Are His Witness",
+            "body": "God placed you in someone's life for a reason. Speak boldly about what Jesus has done for you.",
+            "ref": "Acts 1:8"
+        },
+        {
+            "title": "Light in the Darkness",
+            "body": "Let your light shine before others so they may see your good works and glorify your Father in heaven.",
+            "ref": "Matthew 5:16"
+        },
+        {
+            "title": "Go and Make Disciples",
+            "body": "The Great Commission is for every believer. Who can you invite to know Jesus today?",
+            "ref": "Matthew 28:19-20"
+        },
+        {
+            "title": "One Seed at a Time",
+            "body": "You may plant, another may water, but God gives the growth. Share the gospel faithfully.",
+            "ref": "1 Corinthians 3:6-7"
+        },
+        {
+            "title": "Always Be Ready",
+            "body": "Be prepared to give an answer to anyone who asks about the hope you have in Christ.",
+            "ref": "1 Peter 3:15"
+        },
+        {
+            "title": "The Harvest Is Plentiful",
+            "body": "Look around you — there are people ready to hear the gospel. Pray for open doors today.",
+            "ref": "Matthew 9:37-38"
+        },
+        {
+            "title": "No Shame in the Gospel",
+            "body": "The gospel is the power of God that brings salvation to everyone who believes. Never be ashamed to share it.",
+            "ref": "Romans 1:16"
+        },
+        {
+            "title": "Love Your Neighbor",
+            "body": "The greatest act of love is pointing someone to Jesus. Who is your neighbor today?",
+            "ref": "Mark 12:31"
+        },
+        {
+            "title": "Speak Life",
+            "body": "Your testimony is powerful. Share what Jesus has done in your life — it could change someone's eternity.",
+            "ref": "Revelation 12:11"
+        },
+        {
+            "title": "Reconcilers for Christ",
+            "body": "God has given us the ministry of reconciliation. We are ambassadors for Christ — share that message today.",
+            "ref": "2 Corinthians 5:18-20"
+        },
+        {
+            "title": "Open Your Mouth Boldly",
+            "body": "Ask God for boldness to proclaim the mystery of the gospel wherever you go today.",
+            "ref": "Ephesians 6:19"
+        },
+        {
+            "title": "Beautiful Feet",
+            "body": "How beautiful are the feet of those who bring good news! Your willingness to share matters.",
+            "ref": "Romans 10:15"
+        },
+        {
+            "title": "Pray for Open Doors",
+            "body": "Ask God to open a door today for a conversation about Jesus. He will be faithful to answer.",
+            "ref": "Colossians 4:3"
+        },
+        {
+            "title": "Salt and Light",
+            "body": "You are the salt of the earth and a city on a hill. Live and speak in a way that points others to God.",
+            "ref": "Matthew 5:13-14"
+        },
+        {
+            "title": "Urgency of the Gospel",
+            "body": "How will they hear without someone telling them? Your voice could be the one that leads someone home.",
+            "ref": "Romans 10:14"
+        },
+        {
+            "title": "The Joy of Sharing",
+            "body": "Sharing the gospel is a privilege, not a burden. Rejoice today in being used by God to reach others.",
+            "ref": "Philippians 1:18"
+        },
+        {
+            "title": "Jesus — the Only Way",
+            "body": "There is salvation in no one else. Lovingly share the truth that Jesus is the way, the truth, and the life.",
+            "ref": "John 14:6"
+        },
+        {
+            "title": "God's Word Never Returns Empty",
+            "body": "Don't worry about the results — just be faithful to share. God's Word always accomplishes His purpose.",
+            "ref": "Isaiah 55:11"
+        },
+        {
+            "title": "Run and Don't Grow Weary",
+            "body": "Keep sharing the gospel even when it feels hard. God rewards those who sow seeds of His kingdom faithfully.",
+            "ref": "Galatians 6:9"
+        }
     ]
 }

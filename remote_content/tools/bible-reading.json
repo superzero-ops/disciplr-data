@@ -1,0 +1,48 @@
+{
+  "id": "bible-reading",
+  "title": "Reading the Bible",
+  "category": "growth",
+  "description": "A lesson on the importance of reading the Bible and how to do it effectively.",
+  "cards": [
+    {
+      "index": 0,
+      "heading": "The Importance of the Bible",
+      "scripture": "Matthew 4:4",
+      "scriptureText": "Man shall not live on bread alone, but on every word that comes from the mouth of God.",
+      "body": "The Bible is essential in the life of a believer. It is the food of the soul, a light to our path, and the source of truth about eternal life. Through it, God speaks and guides us.",
+      "question": "How important is the Bible in your daily life right now?"
+    },
+    {
+      "index": 1,
+      "heading": "Prepare Your Heart and Place",
+      "scripture": "Psalm 119:105",
+      "scriptureText": "Your word is a lamp for my feet, a light on my path.",
+      "body": "To have a meaningful Bible reading, find a quiet place and begin with prayer. Ask the Holy Spirit to guide your understanding and open your heart to God’s message.",
+      "question": "What changes can you make to create a better environment for reading the Bible?"
+    },
+    {
+      "index": 2,
+      "heading": "Observe What You Read",
+      "scripture": "John 6:68",
+      "scriptureText": "Lord, to whom shall we go? You have the words of eternal life.",
+      "body": "Take time to observe the passage. Identify key people, main verses, and the central message. Consider how Jesus is revealed in what you are reading.",
+      "question": "Do you usually slow down and observe Scripture, or read quickly? Why?"
+    },
+    {
+      "index": 3,
+      "heading": "Apply the Lessons",
+      "scripture": "James 1:22",
+      "scriptureText": "Do not merely listen to the word, and so deceive yourselves. Do what it says.",
+      "body": "Ask yourself important questions: Is there a promise to claim? A command to obey? A sin to avoid? A lesson to learn? Or an example to follow?",
+      "question": "What is one truth from Scripture you can apply in your life today?"
+    },
+    {
+      "index": 4,
+      "heading": "Be Consistent and Faithful",
+      "scripture": "1 Peter 2:2",
+      "scriptureText": "Like newborn babies, crave pure spiritual milk, so that by it you may grow up in your salvation.",
+      "body": "The Bible is the nourishment of your soul. Be consistent in reading it daily. When you don’t understand something, seek guidance and continue learning. Memorizing Scripture will also strengthen your spiritual life.",
+      "question": "What specific plan can you follow to stay consistent in reading the Bible?"
+    }
+  ]
+}

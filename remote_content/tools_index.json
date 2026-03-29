@@ -49,6 +49,13 @@
       "category": "growth",
       "description": "A lesson on prayer as both a responsibility and a privilege of every believer.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/prayer-rights-and-responsibilities.webp"
+    },
+    {
+      "id": "bible-reading",
+      "title": "Reading the Bible",
+      "category": "growth",
+      "description": "A lesson on the importance of reading the Bible and how to do it effectively.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/bible-reading.webp"
     }
   ]
 }

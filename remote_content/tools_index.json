@@ -63,6 +63,20 @@
       "category": "growth",
       "description": "A lesson on the importance of faithfully attending worship services as a mark of a true Christian.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/attending-worship-services.webp"
+    },
+    {
+      "id": "giving-to-the-lord",
+      "title": "Giving to the Lord",
+      "category": "growth",
+      "description": "A lesson on giving as an expression of love, obedience, and trust in God.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/giving-to-the-lord.webp"
+    },
+    {
+      "id": "separation-from-false-teaching",
+      "title": "Separation from False Teaching and Practices",
+      "category": "growth",
+      "description": "A lesson on living separately from false teachings, sinful practices, and worldly influences.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/separation-from-false-teaching.webp"
     }
   ]
 }

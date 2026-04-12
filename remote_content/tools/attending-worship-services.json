@@ -1,0 +1,56 @@
+{
+  "id": "attending-worship-services",
+  "title": "Attending Worship Services",
+  "category": "growth",
+  "description": "A lesson on the importance of faithfully attending worship services as a mark of a true Christian.",
+  "cards": [
+    {
+      "index": 0,
+      "heading": "Faithful Worship Attendance",
+      "scripture": "Hebrews 10:25",
+      "scriptureText": "Not giving up meeting together, as some are in the habit of doing, but encouraging one another.",
+      "body": "One of the most important responsibilities of a true Christian is faithful attendance in worship. Gathering with other believers strengthens faith, provides encouragement, and honors God.",
+      "question": "How consistent are you in attending worship services?"
+    },
+    {
+      "index": 1,
+      "heading": "The Importance of Worship",
+      "scripture": "Exodus 20:10",
+      "scriptureText": "But the seventh day is a sabbath to the Lord your God.",
+      "body": "The Old Testament shows the seriousness of setting aside time for God. Worship was commanded and valued highly, showing that God desires His people to dedicate time specifically for Him.",
+      "question": "Why do you think God places importance on regular worship?"
+    },
+    {
+      "index": 2,
+      "heading": "The Day of Worship",
+      "scripture": "Acts 20:7",
+      "scriptureText": "On the first day of the week we came together to break bread.",
+      "body": "In the New Testament, believers gathered on the first day of the week—Sunday. This became the day of worship and fellowship for Christians, commemorating the resurrection of Christ.",
+      "question": "What does Sunday worship mean to you personally?"
+    },
+    {
+      "index": 3,
+      "heading": "How Believers Should Attend",
+      "scripture": "Psalm 63:1",
+      "scriptureText": "You, God, are my God, earnestly I seek you.",
+      "body": "True believers should attend worship faithfully, arrive prepared and on time, and participate with a sincere heart. Worship is not only about presence but about devotion and reverence.",
+      "question": "How can you prepare your heart better before attending worship?"
+    },
+    {
+      "index": 4,
+      "heading": "Worship Strengthens Spiritual Life",
+      "scripture": "Matthew 7:20",
+      "scriptureText": "Thus, by their fruit you will recognize them.",
+      "body": "Faithful attendance in worship is a sign of spiritual maturity and commitment. Neglecting worship can weaken one’s spiritual life and relationship with God.",
+      "question": "Have you noticed how worship attendance affects your spiritual strength?"
+    },
+    {
+      "index": 5,
+      "heading": "Application: Honor the Lord's Day",
+      "scripture": "Colossians 3:17",
+      "scriptureText": "And whatever you do, whether in word or deed, do it all in the name of the Lord Jesus.",
+      "body": "Worship attendance is both a command and a privilege. Believers should honor the day set apart for worship and avoid neglecting it for less important matters.",
+      "question": "What practical steps can you take to prioritize worship every week?"
+    }
+  ]
+}

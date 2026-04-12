@@ -56,6 +56,13 @@
       "category": "growth",
       "description": "A lesson on the importance of reading the Bible and how to do it effectively.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/bible-reading.webp"
+    },
+    {
+      "id": "attending-worship-services",
+      "title": "Attending Worship Services",
+      "category": "growth",
+      "description": "A lesson on the importance of faithfully attending worship services as a mark of a true Christian.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/attending-worship-services.webp"
     }
   ]
 }

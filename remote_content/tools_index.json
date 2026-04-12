@@ -58,6 +58,13 @@
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/bible-reading.webp"
     },
     {
+      "id": "baptism",
+      "title": "Baptism",
+      "category": "growth",
+      "description": "A lesson on the importance, meaning, and practice of baptism as an act of obedience for every believer.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/baptism.webp"
+    },
+    {
       "id": "attending-worship-services",
       "title": "Attending Worship Services",
       "category": "growth",

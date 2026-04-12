@@ -1,0 +1,64 @@
+{
+  "id": "baptism",
+  "title": "Baptism",
+  "category": "growth",
+  "description": "A lesson on the importance, meaning, and practice of baptism as an act of obedience for every believer.",
+  "cards": [
+    {
+      "index": 0,
+      "heading": "Baptism: An Act of Obedience",
+      "scripture": "Matthew 28:19",
+      "scriptureText": "Therefore go and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit.",
+      "body": "God has given two ordinances to the Church: baptism and the Lord’s Supper. For a new believer, baptism is the first step of obedience. It is not optional—it is a command that every Christian should follow.",
+      "question": "Do you see baptism as optional or as an important step of obedience? Why?"
+    },
+    {
+      "index": 1,
+      "heading": "The Importance of Baptism",
+      "scripture": "Romans 6:4",
+      "scriptureText": "We were therefore buried with him through baptism into death in order that, just as Christ was raised from the dead... we too may live a new life.",
+      "body": "Baptism is important because it follows the example of Jesus, obeys His command, and serves as a testimony of His sacrifice. It also represents the new life that has already taken place in the believer’s heart.",
+      "question": "What does baptism represent in your personal faith journey?"
+    },
+    {
+      "index": 2,
+      "heading": "The Meaning of Baptism",
+      "scripture": "Galatians 3:27",
+      "scriptureText": "For all of you who were baptized into Christ have clothed yourselves with Christ.",
+      "body": "Baptism is not simply a ritual like infant sprinkling. It is a picture of Christ’s death, burial, and resurrection. It also shows that the believer has died to sin and now lives a new life in Christ.",
+      "question": "How does understanding the meaning of baptism change your view of it?"
+    },
+    {
+      "index": 3,
+      "heading": "Who Should Be Baptized",
+      "scripture": "Acts 2:41",
+      "scriptureText": "Those who accepted his message were baptized...",
+      "body": "Only those who truly believe in Jesus Christ and have experienced new life should be baptized. Baptism follows personal faith and repentance, not tradition or age.",
+      "question": "Have you personally made a decision to follow Christ before considering baptism?"
+    },
+    {
+      "index": 4,
+      "heading": "The Mode of Baptism",
+      "scripture": "Matthew 3:16",
+      "scriptureText": "As soon as Jesus was baptized, he went up out of the water.",
+      "body": "Biblical baptism is by immersion—being fully submerged in water. This reflects the original meaning of the word 'baptize' and clearly symbolizes death, burial, and resurrection.",
+      "question": "Why do you think immersion is an important symbol in baptism?"
+    },
+    {
+      "index": 5,
+      "heading": "Baptism Does Not Save",
+      "scripture": "Ephesians 2:8-9",
+      "scriptureText": "For it is by grace you have been saved, through faith... not by works, so that no one can boast.",
+      "body": "Baptism does not save a person. Salvation comes by grace through faith in Jesus Christ. Baptism is the outward expression of an inward change that has already taken place.",
+      "question": "Why is it important to understand that baptism does not save?"
+    },
+    {
+      "index": 6,
+      "heading": "Application: A Step of Faith",
+      "scripture": "James 1:22",
+      "scriptureText": "Do not merely listen to the word, and so deceive yourselves. Do what it says.",
+      "body": "A true believer should follow the Lord in baptism as a step of obedience. It is a public testimony of faith and a sign of being identified with the body of Christ.",
+      "question": "If you have not been baptized yet, what is stopping you from taking this step?"
+    }
+  ]
+}

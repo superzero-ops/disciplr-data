@@ -4,84 +4,84 @@
     {
       "id": "knowing-god-personally",
       "title": "Knowing God Personally",
-      "category": "evangelism",
+      "category": "reach",
       "description": "Four truths about a personal relationship with God.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/knowing-god-personally.webp"
     },
     {
       "id": "share-your-faith",
       "title": "Share Your Faith",
-      "category": "discipleship",
+      "category": "multiply",
       "description": "Practical tools for sharing discipleship naturally in everyday life.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/share-your-faith.webp"
     },
     {
       "id": "romans-road",
       "title": "Romans Road",
-      "category": "evangelism",
+      "category": "reach",
       "description": "A pathway through the book of Romans that explains sin, salvation, and how to receive eternal life.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/romans-road.webp"
     },
     {
       "id": "the-bridge-to-life",
       "title": "The Bridge to Life",
-      "category": "evangelism",
+      "category": "reach",
       "description": "An explanation of how Jesus bridges the gap between humanity and God.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/the-bridge-to-life.webp"
     },
     {
       "id": "the-abiding-life",
       "title": "The Abiding Life",
-      "category": "discipleship",
+      "category": "begin",
       "description": "Practical steps for staying connected to Christ and growing in spiritual maturity.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/the-abiding-life.webp"
     },
     {
       "id": "true-christian-marks",
       "title": "The Marks of a True Christian",
-      "category": "growth",
+      "category": "grow",
       "description": "A lesson on the visible evidences of a genuine Christian life.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/true-christian-marks.webp"
     },
     {
       "id": "prayer-rights-and-responsibilities",
       "title": "The Privilege and Responsibility of Prayer",
-      "category": "growth",
+      "category": "grow",
       "description": "A lesson on prayer as both a responsibility and a privilege of every believer.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/prayer-rights-and-responsibilities.webp"
     },
     {
       "id": "bible-reading",
       "title": "Reading the Bible",
-      "category": "growth",
+      "category": "grow",
       "description": "A lesson on the importance of reading the Bible and how to do it effectively.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/bible-reading.webp"
     },
     {
       "id": "baptism",
       "title": "Baptism",
-      "category": "growth",
+      "category": "grow",
       "description": "A lesson on the importance, meaning, and practice of baptism as an act of obedience for every believer.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/baptism.webp"
     },
     {
       "id": "attending-worship-services",
       "title": "Attending Worship Services",
-      "category": "growth",
+      "category": "grow",
       "description": "A lesson on the importance of faithfully attending worship services as a mark of a true Christian.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/attending-worship-services.webp"
     },
     {
       "id": "giving-to-the-lord",
       "title": "Giving to the Lord",
-      "category": "growth",
+      "category": "grow",
       "description": "A lesson on giving as an expression of love, obedience, and trust in God.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/giving-to-the-lord.webp"
     },
     {
       "id": "separation-from-false-teaching",
       "title": "Separation from False Teaching and Practices",
-      "category": "growth",
+      "category": "grow",
       "description": "A lesson on living separately from false teachings, sinful practices, and worldly influences.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/separation-from-false-teaching.webp"
     }

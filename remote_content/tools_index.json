@@ -119,6 +119,48 @@
       "category": "grow",
       "description": "A lesson on understanding temptation and how believers can overcome it through Christ.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/victory-over-temptation.webp"
+    },
+    {
+      "id": "beginning-of-your-new-life",
+      "title": "Beginning of Your New Life",
+      "category": "begin",
+      "description": "An introductory lesson focused on building relationship, understanding the gospel, and starting basic Christian practices.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/beginning-of-your-new-life.webp"
+    },
+    {
+      "id": "beginning-of-your-new-relationship-with-god",
+      "title": "The Beginning of Your New Relationship with God",
+      "category": "begin",
+      "description": "A lesson focused on assurance of salvation and helping the disciple grow in a personal relationship with God.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/beginning-of-your-new-relationship-with-god.webp"
+    },
+    {
+      "id": "beginning-of-your-relationship-with-the-family-of-god",
+      "title": "The Beginning of Your Relationship with the Family of God",
+      "category": "begin",
+      "description": "A lesson focused on helping the disciple grow in connection, fellowship, and participation in the family of God.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/beginning-of-your-relationship-with-the-family-of-god.webp"
+    },
+    {
+      "id": "strengthening-your-relationship-with-god-listening-to-god",
+      "title": "Strengthening Your Relationship with God (Listening to God)",
+      "category": "begin",
+      "description": "A lesson on how believers can listen to God through His Word and grow in sensitivity to His voice.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/strengthening-your-relationship-with-god-listening-to-god.webp"
+    },
+    {
+      "id": "strengthening-your-relationship-with-god-prayer",
+      "title": "Strengthening Your Relationship with God (Prayer)",
+      "category": "begin",
+      "description": "A lesson on how to pray, grow in communication with God, and understand how He answers prayer.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/strengthening-your-relationship-with-god-prayer.webp"
+    },
+    {
+      "id": "strongholds",
+      "title": "Strongholds",
+      "category": "begin",
+      "description": "A lesson on understanding sin, overcoming strongholds, and experiencing freedom through God’s forgiveness and truth.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/strongholds.webp"
     }
   ]
 }

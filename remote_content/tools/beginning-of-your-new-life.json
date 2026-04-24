@@ -1,0 +1,88 @@
+{
+  "id": "beginning-of-your-new-life",
+  "title": "The Beginning of Your New Life",
+  "category": "begin",
+  "description": "An introductory lesson focused on building relationship, understanding the gospel, and starting basic Christian practices.",
+  "cards": [
+    {
+      "index": 0,
+      "heading": "Getting to Know Each Other",
+      "scripture": "Romans 12:10",
+      "scriptureText": "Be devoted to one another in love. Honor one another above yourselves.",
+      "body": "This first meeting is a time to build relationship. Take time to know each other personally. Share about your life and encourage your mentee to open up as well. Ask about their family, relationships, background, and life experiences.",
+      "question": "What are some important parts of your life story that you would like to share?"
+    },
+    {
+      "index": 1,
+      "heading": "Your Role as a Discipler",
+      "scripture": "2 Timothy 2:2",
+      "scriptureText": "Entrust to reliable people who will also be qualified to teach others.",
+      "body": "Introduce yourself as a discipler who is committed to helping them grow in their Christian life. Emphasize that you are there to guide, support, and walk alongside them in their journey.",
+      "question": "How do you feel about having someone guide you in your spiritual growth?"
+    },
+    {
+      "index": 2,
+      "heading": "Setting a Regular Meeting",
+      "scripture": "Hebrews 10:25",
+      "scriptureText": "Not giving up meeting together... but encouraging one another.",
+      "body": "Agree on a regular time and place to meet. If possible, meet in the mentee’s home to also build connection with their family. Consistency is important for growth.",
+      "question": "What schedule would work best for you to meet regularly?"
+    },
+    {
+      "index": 3,
+      "heading": "Understanding the Gospel",
+      "scripture": "John 3:16",
+      "scriptureText": "For God so loved the world that he gave his one and only Son...",
+      "body": "Discuss the gospel and make sure it is clearly understood. Salvation comes because God loves us, sent Jesus to die for our sins, and offers eternal life to those who believe in Him.",
+      "question": "Why did you decide to become a Christian?"
+    },
+    {
+      "index": 4,
+      "heading": "The Meaning of Salvation",
+      "scripture": "Romans 6:23",
+      "scriptureText": "For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.",
+      "body": "Sin separates us from God and leads to spiritual death. No amount of good works or religion can save us. Only through Jesus Christ can we be forgiven and restored to a relationship with God.",
+      "question": "How do you understand what Jesus has done for you?"
+    },
+    {
+      "index": 5,
+      "heading": "Clarifying Personal Testimony",
+      "scripture": "2 Corinthians 5:17",
+      "scriptureText": "If anyone is in Christ, the new creation has come.",
+      "body": "People may come to Christ through different experiences—healing, personal struggles, or seeing others’ testimonies. What matters most is true faith in Jesus. Revisit the gospel if needed and emphasize the core truth.",
+      "question": "What experience led you closer to Christ?"
+    },
+    {
+      "index": 6,
+      "heading": "Starting Your New Life: Join a Group",
+      "scripture": "Acts 2:42",
+      "scriptureText": "They devoted themselves to the apostles’ teaching and to fellowship.",
+      "body": "Encourage the mentee to join a cell group. Explain what happens there and why it is important—growth, encouragement, and support from other believers.",
+      "question": "Are you open to joining a small group for support and growth?"
+    },
+    {
+      "index": 7,
+      "heading": "Starting Your New Life: Read the Bible",
+      "scripture": "Psalm 119:105",
+      "scriptureText": "Your word is a lamp for my feet, a light on my path.",
+      "body": "Encourage daily Bible reading. Explain how God speaks through His Word and how memorizing Scripture helps spiritual growth.",
+      "question": "What is your plan to start reading the Bible regularly?"
+    },
+    {
+      "index": 8,
+      "heading": "Prayer: Learning to Talk to God",
+      "scripture": "Philippians 4:6",
+      "scriptureText": "Do not be anxious about anything, but in every situation, by prayer... present your requests to God.",
+      "body": "Ask for prayer requests and model a simple prayer. Thank God for salvation and pray for protection and blessing. Help the mentee learn how to pray.",
+      "question": "What would you like us to pray for today?"
+    },
+    {
+      "index": 9,
+      "heading": "Next Steps",
+      "scripture": "1 John 5:11-12",
+      "scriptureText": "God has given us eternal life, and this life is in his Son.",
+      "body": "Set the next meeting schedule. Encourage the mentee to read 1 John 5:11–12. Remind them that they can reach out anytime if they need help or guidance.",
+      "question": "What is one step you will take before our next meeting?"
+    }
+  ]
+}

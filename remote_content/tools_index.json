@@ -2,11 +2,11 @@
   "schemaVersion": 2,
   "tools": [
     {
-      "id": "knowing-god-personally",
-      "title": "Knowing God Personally",
+      "id": "four-spiritual-laws",
+      "title": "Four Spiritual Laws",
       "category": "reach",
       "description": "Four truths about a personal relationship with God.",
-      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/knowing-god-personally.webp"
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/four-spiritual-laws.webp"
     },
     {
       "id": "share-your-faith",

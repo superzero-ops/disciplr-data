@@ -9,13 +9,6 @@
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/four-spiritual-laws.webp"
     },
     {
-      "id": "share-your-faith",
-      "title": "Share Your Faith",
-      "category": "multiply",
-      "description": "Practical tools for sharing discipleship naturally in everyday life.",
-      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/share-your-faith.webp"
-    },
-    {
       "id": "romans-road",
       "title": "Romans Road",
       "category": "reach",
@@ -28,13 +21,6 @@
       "category": "reach",
       "description": "An explanation of how Jesus bridges the gap between humanity and God.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/the-bridge-to-life.webp"
-    },
-    {
-      "id": "the-abiding-life",
-      "title": "The Abiding Life",
-      "category": "begin",
-      "description": "Practical steps for staying connected to Christ and growing in spiritual maturity.",
-      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/the-abiding-life.webp"
     },
     {
       "id": "true-christian-marks",
@@ -161,6 +147,41 @@
       "category": "begin",
       "description": "A lesson on understanding sin, overcoming strongholds, and experiencing freedom through God’s forgiveness and truth.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/strongholds.webp"
+    },
+    {
+      "id": "following-jesus-as-lord",
+      "title": "Following Jesus as Your Lord",
+      "category": "begin",
+      "description": "A lesson on surrendering to Jesus as Lord and learning to prioritize Him above all things.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/following-jesus-as-lord.webp"
+    },
+    {
+      "id": "how-to-evangelize",
+      "title": "How to Evangelize",
+      "category": "multiply",
+      "description": "A lesson on how to effectively share the gospel and guide people toward spiritual growth in Christ.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/how-to-evangelize.webp"
+    },
+    {
+      "id": "share-your-faith",
+      "title": "Share Your Faith",
+      "category": "multiply",
+      "description": "Practical tools for sharing discipleship naturally in everyday life.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/share-your-faith.webp"
+    },
+    {
+      "id": "eight-qualities-of-an-effective-discipler",
+      "title": "8 Qualities of an Effective Discipler",
+      "category": "multiply",
+      "description": "A lesson on the essential qualities needed to effectively disciple and guide others in their spiritual growth.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/eight-qualities-of-an-effective-discipler.webp"
+    },
+    {
+      "id": "common-mistakes-in-discipleship",
+      "title": "Common Mistakes in Discipleship",
+      "category": "multiply",
+      "description": "A lesson on common mistakes in discipleship and how to avoid them in order to effectively guide others in their spiritual journey.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/common-mistakes-in-discipleship.webp"
     }
   ]
 }

@@ -84,6 +84,41 @@
       "category": "grow",
       "description": "A lesson on living separately from false teachings, sinful practices, and worldly influences.",
       "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/separation-from-false-teaching.webp"
+    },
+    {
+      "id": "the-christian-and-the-church",
+      "title": "The Christian and the Church",
+      "category": "grow",
+      "description": "A lesson on the meaning of the church, the believer’s relationship to it, and its purpose in Christian life.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/the-christian-and-the-church.webp"
+    },
+    {
+      "id": "seeking-the-will-of-god",
+      "title": "Seeking the Will of God",
+      "category": "grow",
+      "description": "A lesson on how believers can know and follow the will of God.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/seeking-the-will-of-god.webp"
+    },
+    {
+      "id": "offering-yourself-to-god",
+      "title": "Offering Yourself to God",
+      "category": "grow",
+      "description": "A lesson on dedicating one’s whole life to God in full surrender and obedience.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/offering-yourself-to-god.webp"
+    },
+    {
+      "id": "the-christian-and-persecution",
+      "title": "The Christian and Persecution",
+      "category": "grow",
+      "description": "A lesson on why believers face persecution and how to respond in a Christ-like way.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/the-christian-and-persecution.webp"
+    },
+    {
+      "id": "victory-over-temptation",
+      "title": "Victory Over Temptation",
+      "category": "grow",
+      "description": "A lesson on understanding temptation and how believers can overcome it through Christ.",
+      "imageUrl": "https://raw.githubusercontent.com/superzero-ops/disciplr-data/content/remote_content/images/victory-over-temptation.webp"
     }
   ]
 }

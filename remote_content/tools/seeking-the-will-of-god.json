@@ -1,0 +1,48 @@
+{
+  "id": "seeking-the-will-of-god",
+  "title": "Seeking the Will of God",
+  "category": "grow",
+  "description": "A lesson on how believers can know and follow the will of God.",
+  "cards": [
+    {
+      "index": 0,
+      "heading": "God Has a Purpose for Every Life",
+      "scripture": "Romans 8:28",
+      "scriptureText": "Called according to his purpose.",
+      "body": "God has a plan and purpose for every believer. His will is not hidden from those who sincerely seek Him.",
+      "question": "Do you believe God has a specific purpose for your life?"
+    },
+    {
+      "index": 1,
+      "heading": "God Reveals His Will to His People",
+      "scripture": "John 10:27",
+      "scriptureText": "My sheep listen to my voice.",
+      "body": "Christ reveals His will to those who belong to Him. True believers can hear His voice through Scripture and spiritual guidance.",
+      "question": "How do you recognize God’s voice in your life?"
+    },
+    {
+      "index": 2,
+      "heading": "God Speaks Through His Word",
+      "scripture": "Psalm 119:105",
+      "scriptureText": "Your word is a lamp for my feet.",
+      "body": "The primary way God reveals His will is through His Word. A believer must stay close to Christ and listen carefully.",
+      "question": "How often do you seek guidance from Scripture before making decisions?"
+    },
+    {
+      "index": 3,
+      "heading": "God Guides Through the Holy Spirit",
+      "scripture": "Romans 8:14",
+      "scriptureText": "Those who are led by the Spirit of God are the children of God.",
+      "body": "The Holy Spirit guides believers in ways that never contradict God’s Word.",
+      "question": "Have you experienced the Holy Spirit’s guidance in a decision?"
+    },
+    {
+      "index": 4,
+      "heading": "God Reveals His Will to the Obedient",
+      "scripture": "John 10:27",
+      "scriptureText": "They follow me.",
+      "body": "God reveals His will most clearly to those who are ready to obey, even when obedience requires sacrifice.",
+      "question": "Are you willing to obey God even when it is difficult?"
+    }
+  ]
+}

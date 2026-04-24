@@ -1,0 +1,64 @@
+{
+  "id": "victory-over-temptation",
+  "title": "Victory Over Temptation",
+  "category": "grow",
+  "description": "A lesson on understanding temptation and how believers can overcome it through Christ.",
+  "cards": [
+    {
+      "index": 0,
+      "heading": "The Truth About Temptation",
+      "scripture": "James 1:13",
+      "scriptureText": "God cannot be tempted by evil, nor does he tempt anyone.",
+      "body": "Temptation does not come from God. While He may allow trials, the source of temptation is our sinful desires and external enticements.",
+      "question": "How do you usually distinguish between testing and temptation?"
+    },
+    {
+      "index": 1,
+      "heading": "The Source of Temptation",
+      "scripture": "James 1:14",
+      "scriptureText": "Each person is tempted when they are dragged away by their own evil desire.",
+      "body": "Temptation begins from sinful desires within and may be strengthened by Satan’s external influence.",
+      "question": "What temptations most often challenge you?"
+    },
+    {
+      "index": 2,
+      "heading": "The Process of Falling",
+      "scripture": "2 Samuel 11:2",
+      "scriptureText": "David got up from his bed and walked around on the roof.",
+      "body": "Temptation often begins with idleness, attention, continued focus, and finally sinful action. David’s fall with Bathsheba is a clear example.",
+      "question": "What early warning signs do you notice before falling into temptation?"
+    },
+    {
+      "index": 3,
+      "heading": "Hold Fast to God’s Word",
+      "scripture": "Psalm 119:11",
+      "scriptureText": "I have hidden your word in my heart that I might not sin against you.",
+      "body": "The Word of God is one of the most powerful weapons against temptation.",
+      "question": "What Scripture helps you fight temptation?"
+    },
+    {
+      "index": 4,
+      "heading": "Be a Doer of the Word",
+      "scripture": "James 1:22",
+      "scriptureText": "Do not merely listen to the word, and so deceive yourselves. Do what it says.",
+      "body": "Victory comes not only from knowing God’s Word but from obeying it daily.",
+      "question": "How can you apply what you already know from Scripture?"
+    },
+    {
+      "index": 5,
+      "heading": "Submit to God and Resist the Devil",
+      "scripture": "James 4:7",
+      "scriptureText": "Submit yourselves, then, to God. Resist the devil, and he will flee from you.",
+      "body": "Believers overcome temptation by fully submitting to God and actively resisting Satan’s influence.",
+      "question": "What practical steps help you resist temptation?"
+    },
+    {
+      "index": 6,
+      "heading": "Application: Victory Through Christ",
+      "scripture": "1 John 4:4",
+      "scriptureText": "The one who is in you is greater than the one who is in the world.",
+      "body": "No Christian needs to live defeated by sin. Victory is possible through the strength and help of Christ.",
+      "question": "What area of temptation do you need Christ’s strength for today?"
+    }
+  ]
+}
